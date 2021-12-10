@@ -1,0 +1,17 @@
+San Salvador,Miami
+Miami,Paris
+Paris,Hong Kong
+San Salvador,Bogota
+Bogota,Paris
+San Salvador,Ciudad de Panama
+Panama,Madrid
+Madrid,Paris
+San Salvador,Ciudad de Panama
+Ciudad de Panama,Quito
+Ciudad de Panama,Lima
+San Salvador,Houston
+San Salvador,San Francisco
+San Salvador,Los Angeles
+San Salvador,Ciudad de Mexico
+Ciudad de Mexico,Los Angeles
+Ciudad de Mexico,San Francisco
